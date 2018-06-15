@@ -2,6 +2,7 @@
 Nuvistor for Electroscope. Input (antenna) 0 ... 100 V, sensitivity 3 mV
 
 Although :
+
 ![](./pictures/4807.jpg)
 
 it works fine :
