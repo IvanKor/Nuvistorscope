@@ -5,6 +5,7 @@ Although :
 
 ![](./pictures/4807.jpg)
 
+The sensor inside the Faraday double cage
 it works fine :
 
 ![](./pictures/nuvistor_w.jpg)
