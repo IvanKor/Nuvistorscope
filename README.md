@@ -1,5 +1,5 @@
 # Nuvistorscope
-Nuvistor for Electroscope. Тera Ohm resistance input (antenna) 0 ... 100 V, sensitivity 3 mV
+Nuvistor for Electroscope. Hundreds pentaohm resistance input (antenna) 0 ... 100 V, sensitivity 3 mV
 
 Although :
 
